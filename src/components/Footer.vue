@@ -3,15 +3,6 @@
     <img src="/logo.png" alt="Unqualified CSGO Stratbook logo" />
     <div>
       <a
-        href="https://steamcommunity.com/id/D3ATHKeeper/"
-        target="_blank"
-        class="links"
-        >Steam</a
-      >
-      <a href="https://twitter.com/D3ATHKeeper" target="_blank" class="links"
-        >Twitter</a
-      >
-      <a
         href="https://github.com/Unqualified-CSGO/CSGO-Stratbook"
         target="_blank"
         class="links"
